@@ -1,2 +1,2 @@
 # Numerical-Analysis
-Tests, HWs, and practice tests from AMS 326 Spring 2021
+Tests, HWs, and practice tests from Stony Brook AMS 326 Spring 2021 with Prof. Yuefan Deng.
